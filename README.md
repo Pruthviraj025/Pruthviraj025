@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2E4C&center=true&vCenter=true&width=650&lines=CSE+student+%26+competitive+programmer;Full-stack+%7C+ML+%7C+Systems;Building+things+every+day" />
 </p>
 
-## 🎬 Demo
 
 <p align="center">
   <img src="assets/demo.gif" width="700" alt="Demo" />
