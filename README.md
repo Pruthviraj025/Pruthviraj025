@@ -12,11 +12,6 @@
   <img src="assets/demo.gif" width="700" alt="Demo" />
 </p>
 
-## ⚡ Featured Builds
-
-| Project | What it is |
-|---|---|
-| 🏆 [**codeclub-leaderboard**](https://github.com/Pruthviraj025/codeclub-leaderboard) | Leaderboard site for club members |
 
 ## 🛠️ Tech Arsenal
 
