@@ -21,8 +21,3 @@
 ## 🛠️ Tech Arsenal
 
 ![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,js,vite)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Pruthviraj025&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://streak-stats.demolab.com?user=Pruthviraj025&theme=tokyonight&hide_border=true)
