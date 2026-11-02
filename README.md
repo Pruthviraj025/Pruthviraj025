@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0205,100:e60026&height=200&section=header&text=Hey,%20I'm%20PTVRJ&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Pruthviraj025/Pruthviraj025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2E4C&center=true&vCenter=true&width=650&lines=CSE+student+%26+competitive+programmer;Full-stack+%7C+ML+%7C+Systems;Building+things+every+day" />
+</p>
 
-Here are some ideas to get you started:
+## 🎬 Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/demo.gif" width="700" alt="Demo" />
+</p>
+
+## ⚡ Featured Builds
+
+| Project | What it is |
+|---|---|
+| 🏆 [**codeclub-leaderboard**](https://github.com/Pruthviraj025/codeclub-leaderboard) | Leaderboard site for club members |
+
+## 🛠️ Tech Arsenal
+
+![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,js,vite)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Pruthviraj025&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Pruthviraj025&theme=tokyonight&hide_border=true)
