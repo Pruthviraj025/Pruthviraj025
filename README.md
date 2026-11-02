@@ -12,6 +12,6 @@
 </p>
 
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,js,vite)
